@@ -2,4 +2,5 @@
 judge
 jury
 juror 
+lawyer
 prosecutor
