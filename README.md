@@ -4,3 +4,4 @@ jury
 juror 
 lawyer
 prosecutor
+defendant
