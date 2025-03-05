@@ -1,4 +1,4 @@
-2# criminal-law
+# criminal-law
 judge
 jury
 juror 
