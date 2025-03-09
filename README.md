@@ -4,7 +4,7 @@ jury
 juror 
 lawyer
 prosecutor
-defendant
+
 court
 law
 
