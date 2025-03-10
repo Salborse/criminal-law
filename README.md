@@ -1,6 +1,6 @@
 # criminal-law
 judge
-jury
+
 juror 
 lawyer
 prosecutor
